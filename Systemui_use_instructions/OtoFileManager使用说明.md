@@ -35,3 +35,6 @@
 ## FileManager input
 
 - [点此查看Input](https://github.com/openthos/desktop-analysis/blob/master/instructions/FileManagerInput.md)
+
+## FileManager input
+－[点此查看Input](https://github.com/openthos/desktop-analysis/blob/master/instructions/FileManagerInput.md)
